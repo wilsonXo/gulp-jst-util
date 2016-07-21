@@ -1,8 +1,10 @@
 # gulp-jst-util
 compile template of underscore file in to javascript
 
+>example 
+
 ```javascript
-	example:
+	
 	gulp.task('template', function() {
 		return gulp.src('development/tpl/**/*.html')
 			.pipe(jst({
@@ -15,7 +17,8 @@ compile template of underscore file in to javascript
 });
 ```
 
-##options
-base:
+####options
+* base:
 releation folder name.
 template name split at '.' if specifition this option.
+
