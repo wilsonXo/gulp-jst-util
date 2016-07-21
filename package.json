@@ -1,0 +1,82 @@
+{
+  "_args": [
+    [
+      "gulp-jst-util",
+      "/Users/wilson/Documents/workspace/gulp-module"
+    ]
+  ],
+  "_from": "gulp-jst-util@latest",
+  "_id": "gulp-jst-util@1.0.2",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/gulp-jst-util",
+  "_nodeVersion": "5.8.0",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/gulp-jst-util-1.0.2.tgz_1458737610569_0.12476220889948308"
+  },
+  "_npmUser": {
+    "email": "mdianer@qq.com",
+    "name": "w1ls0n"
+  },
+  "_npmVersion": "3.7.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "gulp-jst-util",
+    "raw": "gulp-jst-util",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/gulp-jst-util/-/gulp-jst-util-1.0.2.tgz",
+  "_shasum": "6c3fb708bb177580efd2787756d0db576a516e71",
+  "_shrinkwrap": null,
+  "_spec": "gulp-jst-util",
+  "_where": "/Users/wilson/Documents/workspace/gulp-module",
+  "author": {
+    "name": "w1ls0n"
+  },
+  "dependencies": {
+    "gulp-util": "^3.0.4",
+    "lodash": "^3.6.0",
+    "through2": "^0.6.3"
+  },
+  "description": "precompile html to underscore template",
+  "devDependencies": {},
+  "directories": {
+    "test": "test"
+  },
+  "dist": {
+    "shasum": "6c3fb708bb177580efd2787756d0db576a516e71",
+    "tarball": "https://registry.npmjs.org/gulp-jst-util/-/gulp-jst-util-1.0.2.tgz"
+  },
+  "keywords": [
+    "gulp",
+    "underscore",
+    "jst",
+    "template"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "email": "mdianer@qq.com",
+      "name": "w1ls0n"
+    }
+  ],
+  "name": "gulp-jst-util",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "null"
+  },
+  "scripts": {
+    "test": "null"
+  },
+  "version": "1.0.3"
+}
