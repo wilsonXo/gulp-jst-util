@@ -78,5 +78,13 @@
   "scripts": {
     "test": "null"
   },
-  "version": "1.0.3"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wilsonXo/gulp-jst-util"
+  },
+  "homepage": "https://github.com/wilsonXo/gulp-jst-util",
+  "bugs": {
+    "url": "https://github.com/wilsonXo/gulp-jst-util/issues"
+  },
+  "version": "1.0.7"
 }

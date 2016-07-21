@@ -1,8 +1,7 @@
 # gulp-jst-util
 compile template of underscore file in to javascript
 
->example 
-
+#useage:
 ```javascript
 	
 	gulp.task('template', function() {
@@ -12,7 +11,6 @@ compile template of underscore file in to javascript
 			}).on('error', function() {
 				console.log(arguments);
 			}))
-			.pipe(beautify({}))
 			.pipe(gulp.dest('development/scripts/view/'));
 });
 ```
